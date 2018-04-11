@@ -2,4 +2,8 @@ info:
   profile: dev
   from: git
 
+user:
+  name: lisi
+  age: 26
+  
 test: aaa

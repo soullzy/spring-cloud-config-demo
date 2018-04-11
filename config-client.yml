@@ -2,4 +2,8 @@ info:
   profile: default
   from: git1
   
+user:
+  name: zhangsan
+  age: 25
+  
 test: bbb
