@@ -1,0 +1,9 @@
+info:
+  profile: test
+  from: git test
+  
+user:
+  name: zhangsan
+  age: 25
+  
+test: project test

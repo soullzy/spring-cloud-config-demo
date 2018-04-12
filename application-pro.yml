@@ -1,0 +1,9 @@
+info:
+  profile: default
+  from: git pro
+  
+user:
+  name: zhangsan
+  age: 25
+  
+test: project default
